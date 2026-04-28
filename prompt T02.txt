@@ -1,0 +1,14 @@
+sekarang kerjakan T02 nya
+
+soalnya itu
+Data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok barang dipisahkan. Input:
+1. Jumlah total data (N). 
+2. Deret stok (s1, s2, ..., sN). 
+3. Kode kategori barang.
+Tugas Buatlah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta.
+
+buatkan jawabannya itu ke model2.java dan driver2.java dan template nya ada di zip yang saya kirimkan
+
+berikan inputannya 
+
+jadi yang di gambar tersebut tidak ada hubungannya?
